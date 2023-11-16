@@ -1,0 +1,27 @@
+project:
+  type: book
+
+book:
+  title: "IDR4000 MAPPEEKSAMEN"
+  author: "405"
+  date: "17/11/2023"
+  chapters:
+    - index.qmd
+    - 01-Reliabilitet.qmd
+    - 02-vitenskapsfilosofi.qmd
+    - 03-labbreport.qmd
+    - 04-Studiedesign.qmd
+    - 05-Analyse-repiterteforsøk.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

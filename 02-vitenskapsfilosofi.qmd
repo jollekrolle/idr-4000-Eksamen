@@ -1,0 +1,77 @@
+---
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+# Vitenskapsfilosofi
+
+Arbeidskrav 2 vitenskapeligfilosofi
+
+1.  Ifølge Hume er det umulig å rasjonelt begrunne bruken av induksjon.
+    Hva er argumentet for denne konklusjonen?
+    Er det mulig å unngå Humes konklusjon?
+    Begrunn svaret ditt.
+    Hume var en britisk vitenskaps filosof som levde på 1700-tallet.
+    Han mente at induksjon kunne brukes, men at uniformitetsprinsippet måtte stemme for at prediksjonene om fremtiden også skulle stemme.
+    Dette vil være en motsetning til deduktivvitenskap.
+    Altså vitenskap som ikke kunne inneholde noen feilkilder eller ubesvarte spørsmål i teorien som f.eks.
+    matematikk.
+    Humes problem med induksjon var altså at man ikke kunne rasjonelt begrunne induksjon. F.eks. vil han ikke anse psykologi som en presis vitenskap nemlig på grunn av uniformitetsprinsippet. Et av argumentene for at dette ikke skal være «godkjent» vitenskap er fordi menneskets følelser vil variere fra dag til dag, og menneskets livssituasjon vil være en faktor som kan påvirke konklusjonen. I studier eller argumenter som blir brukt til å predikere fremtiden vil også ha et problem med Humes rasjonelle tanker om vitenskap.
+    Det er f.eks.
+    ingen garanti for at solen står opp i morgen, eller neste år vil bli som det året som har hvert.
+    For å komme med en slike prediksjoner bør man bygge oppunder argumentet med bruk av uniformitetsprinsippet.
+    Jeg gleder meg til i morgen, fordi da skal jeg gå på ski.
+    Uniformitetsprinsippet gir med tillit til at det blir en fin dag.
+    Basert på skiopplevelser jeg har hatt tidligere, har jeg vanligvis blitt glad av og det har gitt en positiv energi.
+    Derfor, vil jeg kunne tenke meg, med de tidligere erfaringene med skiturer, kan jeg trykt antyde at morgendagen blir en bra dag.
+    Det blir altså lagt til et ekstra premiss i argumentet som empirisk kan sjekkes senere for å bedømme om det faktisk blir en fantastisk dag.
+    Dersom vi skal knytte dette opp mot forskning vil alle studier som sier eller mener noe om fremtiden benytte seg av uniformitetsprinsippet.
+    Hvis en bank skal låne ut penger til en person vil de måtte underlegge seg uniformitetsprinsippet for å regne ut eller anta hvor mye kunden kan betale på lånet.
+    Det banken regner med er at personen vil ha samme inntekt eller økende inntekt sammenlignet med den inntekten personen har nå.
+    Her må de bruke universitetsprinsippet hvor de må anta at fremtiden vil være lik eller bedre for kunde (Okasha, 2016. s. 20).
+    Det vil være vanskelig og unngår Humes konklusjon.     Universitetsprinsippet vil alltid noe man må ta hensyn til og faktumet at induksjon ikke er kan anses som vitenskap vil også være et problem man må ta hensyn til.     Det er to ting som er veldig vanskelig å komme uten om.     Løsningen på problemene må ikke nødvendigvis være akseptere å leve etter Humes konklusjon, men løsningen kan være at å vite om problemet og ha en sunn tilnærming til det. Som for en vanlig person vil det kunne være ukomfortabelt å hele tiden tenke på uniformitetsprinsippet.
+    Hver gang han går på butikken for å ukes handle vil han måtte tenke at denne uken blir mest sannsynlig som sist uke, derfor kan jeg handle middag til hele uken.
+    Hvis antagelsen om at denne uken blir som sist uke hadde slått feil ut ville uniformitetsprinsippet ville det ikke ha lønt seg å ukeshandle for denne personen.
+    Problemet med induksjon og uniformitetsprinsippet veldig vanskelig og komplekst å forholde seg til i det daglige livet.
+    At man ikke bare kan anta at morgen dagen blir som dagen i dag uten å ha med uniformitetsprinsippet vil være komplisert og lite praktisk i det dagligdagse livet.
+    Derimot i forsking vi det være viktig slik at man hele tiden må utvikle seg og prøve å løse dette problemet.
+
+2.  Gi en kort beskrivelse og forklaring av falsifikasjonisme.
+    Presenter så ett problem med denne teorien.
+    Tror du problemet kan løses?
+    Begrunn svaret ditt.
+
+En veldig kjent vitenskapsfilosofi på 1900-tallet som heter Karl Popper, kom opp med falsifikasjons teorien.
+Popper mente at induksjon ikke fungerte for å kontroll sjekke vitenskapsteorier, da det manglet en logisk forklaring og var utsatt for problemer som Humes problem med induksjon.
+Han introduserte falsifisering som et krav for forskning, der det skal være mulig å motbevises empirisk.
+Falsifikasjonisme sier at alle forskinger som er gjort må kunne falsifiser.
+Å falsifisere vil si at man etterprøver andre prosjekter som tidligere er gjenomført.
+Popper mente nettopp at alt som kan falsifiseres kan kalles vitenskap, som f.eks.
+teorien om at jorda er flat.
+Personer som mener at jorden er flat vil derfor fortsatt kunne kalde teorien sin for vitenskap, og grunnen til det er fordi den kan falsifiseres.
+Popper mener da altså at vitenskapen gikk i sykluser, hypotese - teori - falsifisering - hypotese - teori - falsifisering osv.
+Selv om en induktivteori kommer til en prediksjon mener Popper at dette er feil, på grunn av argumentet at induksjon ikke han regnes som eksakt vitenskap og at det må falsifiseres.
+Et annet poeng Popper kom med mor induksjon var at det var for litt å anerkjenne det som vitenskap.
+Han mente at en induktivteori hvor observasjonen underbygde hypotesen vil teorien være feil.
+En teori Popper var motstander av er marxistiske som ble grunnlagt av Karl Marx.
+Marxisme mener at de med sine hypoteser kan forutsi hvordan verden kommer til å bli (Okasha, 2016. s. 12).
+Altså at hypotesen som de legger frem vil si hvordan fremtiden er.
+En av argumentene til at Popper var imot dette var at hypotesen var for lite spesifikke, han mente også at marxister endret hypoteser etter hvordan verden og fremtiden faktisk ble.
+Dette er altså hypoteser som ikke kan empirisk bevises eller falsifiseres nå.
+Falsifikasjon er et problem i vitenskapen, nettopp fordi det gjør det umulig å si 100% sikkerhet at en den induktiv teori er sann.
+For å komme med en løsning på dette problemet vil være veldig vanskelig, fordi det er et problem som ikke lar seg løse.
+Problemet er egentlig noe man bare må akseptere i vitenskapen.
+Dette vil også være unaturlig for en vanlig person å hele tiden gå rundt å tenke på falsifiserings prinsippet.
+Antagelser om fremtiden og eksisterende forskning er avgjørende for vår daglige livsførsel, men for å styrke vitenskapen er falsifikasjonsprinsippet essensielt.
+Popper argumenterte for at å aktivt prøve å falsifisere hypoteser gjør vitenskapen sterkere.
+Ved å utfordre og avkrefte hypoteser bringes vitenskapen nærmere sannheten, og dette kontrasterer med Humes uniformitetsprinsipp, idet falsifikasjon legger vekt på kontinuerlig testing og endring for å forbedre vår forståelse av verden.
+Falsifikasjon vil altså hjelpe med å avkrefte hypoteser som vil drive vitenskapen nærmere og vider mot et mer eller mindre «riktig» svar.
+
+Det som kan være vanskelig i det dagligdagse livet er å akseptere at induksjon ikke er en sann vitenskap, og at all vitenskap må falsifiseres.
+Dette gjøre det til et uunngåelig problem å komme utenom, men hvis man gjør seg opp litt egne tanker rundt dette vil det kunne være lettere å leve i en verden hvor dette problemet fortsatt eksistere.
+
+##Kilder
+
+Okasha S. Philosophy of science: a very short introduction.
+Oxford University Press; 2016
